@@ -1,2 +1,0 @@
-# labs
-🧪 Automated Software Laboratory
